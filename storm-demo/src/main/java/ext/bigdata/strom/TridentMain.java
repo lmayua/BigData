@@ -1,13 +1,3 @@
-/*
- * Copyright (C), 2002-2018, 苏宁易购电子商务有限公司
- * FileName: TridentMain.java
- * Author:   17073580
- * Date:     2018年2月9日 上午10:08:51
- * Description: <模块目的、功能描述>
- * History: <修改记录>
- * <author>   <time>   <version>  <desc>
- * 修改人姓名        修改时间       版本号                  描述
- */
 package ext.bigdata.strom;
 
 import java.util.Map;
