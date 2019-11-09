@@ -1,0 +1,126 @@
+{
+	"type": "record",
+	"name": "SiesBhvrDetail",
+	"namespace": "${namespace}",
+	"fields": [{
+			"name": "haviorNum",
+			"doc": "行为编码",
+			"type": "string"
+		},
+		{
+			"name": "categoryName",
+			"doc": "类别名称",
+			"type": "string"
+		},
+		{
+			"name": "categoryDescribe",
+			"doc": "类别英文描述",
+			"type": "string"
+		},
+		{
+			"name": "className",
+			"doc": "细类名称",
+			"type": "string"
+		},
+		{
+			"name": "classDescribe",
+			"doc": "细类英文描述",
+			"type": "string"
+		},
+		{
+			"name": "scoreNum",
+			"doc": "分值序号",
+			"type": "string"
+		},
+		{
+			"name": "basisTitle",
+			"doc": "标题",
+			"type": "string"
+		},
+		{
+			"name": "scoreDescribe",
+			"doc": "分值描述",
+			"type": "string"
+		},
+		{
+			"name": "scoreType",
+			"doc": "分值类型",
+			"type": "string"
+		},
+		{
+			"name": "ladderNum",
+			"doc": "阶梯分序号",
+			"type": "string"
+		},
+		{
+			"name": "objectID",
+			"doc": "奖罚对象工号",
+			"type": "string"
+		},
+		{
+			"name": "objectName",
+			"doc": "奖罚对象姓名",
+			"type": "string"
+		},
+		{
+			"name": "objectPhone",
+			"doc": "奖罚对象手机号",
+			"type": "string"
+		},
+		{
+			"name": "proDate",
+			"doc": "行为产生时间",
+			"type": "string"
+		},
+		{
+			"name": "otherInstr",
+			"doc": "其他说明",
+			"type": "string"
+		},
+		{
+			"name": "getScore",
+			"doc": "获得分值",
+			"type": "int"
+		},
+		{
+			"name": "applyerId",
+			"doc": "申请人工号",
+			"type": "string"
+		},
+		{
+			"name": "applyerName",
+			"doc": "申请人姓名",
+			"type": "string"
+		},
+		{
+			"name": "applyDate",
+			"doc": "申请时间",
+			"type": "string"
+		},
+		{
+			"name": "applyCode",
+			"doc": "申请公文号",
+			"type": "string"
+		},
+		{
+			"name": "applyDescribe",
+			"doc": "申请描述",
+			"type": "string"
+		},
+		{
+			"name": "sourcelType",
+			"doc": "积分来源类型",
+			"type": "string"
+		},
+		{
+			"name": "integralType",
+			"doc": "积分类型",
+			"type": "string"
+		},
+		{
+			"name": "tranDate",
+			"doc": "时间",
+			"type": "string"
+		}
+	]
+}
